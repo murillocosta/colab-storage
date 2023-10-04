@@ -14,7 +14,7 @@ Reanalisys
 ##### Período: 
 1970-2023
 ##### Frequência: 
-Diária, hora a hora
+0h a 23h de todos os dias, todos meses
 
 ##### Sub-região de análise:
 ![Captura de tela 2023-10-04 192554](https://github.com/murillocosta/colab-storage/assets/91096652/4b8c0555-169e-450c-ab56-c66f80bbf41d)
